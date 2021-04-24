@@ -44,3 +44,6 @@ subsets,bonus,problems/subsets.rb,specs/subsets_spec.rb,solutions/subsets_soluti
 symmetric_substrings,string,problems/symmetric_substrings.rb,specs/symmetric_substrings_spec.rb,solutions/symmetric_substrings_solution.rb
 titleize,string,problems/titleize.rb,specs/titleize_spec.rb,solutions/titleize_solution.rb
 two_sum,array,problems/two_sum.rb,specs/two_sum_spec.rb,solutions/two_sum_solution.rb
+gcd,recursion,problems/gcd.rb,specs/gcd_spec.rb,solutions/gcd_solution.rb
+balanced_parentheses,string,problems/balanced_parentheses.rb,specs/balanced_parentheses_spec.rb,solutions/balanced_parentheses_solution.rb
+peak_finder,array,problems/peak_finder.rb,specs/peak_finder_spec.rb,solutions/peak_finder_solution.rb
